@@ -26,7 +26,7 @@ Solution: [Lottery.js](test/Lottery.js)
 > You can now start with Timelock!  
 > this one should be quite EASY!  
 
-Contract: [Timelock.sol](contracts/Timelock.sol)
+Contract: [TimeLock.sol](contracts/TimeLock.sol)
 
 Solution: [Timelock.js](test/Timelock.js)
 
