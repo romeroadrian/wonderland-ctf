@@ -63,3 +63,14 @@ Solution?: [GuessMyAnswerFromEtherscan.js](test/GuessMyAnswerFromEtherscan.js)
 Contract: [FundCommiter.sol](contracts/FundCommiter.sol)
 
 Solution: [FundCommiter.js](test/FundCommiter.js)
+
+### UnverifiedRandomness
+
+> Welp... this one is the last one, and it's preeeeety MEDIUM. (UnverifiedRandomness)  
+> You can find some help here, but there might be more than one way of solving it:  
+> https://github.com/defi-wonderland/ctf-unverified-randomness  
+> God speed, you beautiful hackers
+
+Contract: [UnverifiedRandomness.sol](contracts/UnverifiedRandomness.sol)
+
+Solution: [UnverifiedRandomness.js](test/UnverifiedRandomness.js)
